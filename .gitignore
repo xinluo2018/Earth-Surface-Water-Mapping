@@ -8,3 +8,5 @@ model/pretrained/*
 .vscode
 .DS_Store
 *__pycache__/
+.conda/*
+.conda-win/*
